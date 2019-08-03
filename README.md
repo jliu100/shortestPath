@@ -1,13 +1,11 @@
 # shortestPath
-
-
 1.
 	To compile on terminal for 
 		part1:  make CreateGraphAndTest
 		part2:  make FindPaths
 		part3:  make TestRandomGraph
 
-	 To delete executables and object file type
+	 To delete executables and object file type:
 		 make clean
 
 	 To run with a given file that is redirected to standard input
