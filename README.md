@@ -1,4 +1,5 @@
 # shortestPath
+<pre>
 1.
 	To compile on terminal for 
 		part1:  make CreateGraphAndTest
@@ -19,3 +20,4 @@
 
 2.The input txt files: AdjacencyQueries1, AdjacencyQueries2, Graph1, Graph2, and Graph3 are included in the directory
   The output txt files: no output file is included in the directory
+</pre>
